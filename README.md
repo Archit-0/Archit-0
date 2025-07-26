@@ -46,9 +46,9 @@
 
 ## 📬 Contact Me
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** [archit0422chatn@gmail.com](mailto:your.email@example.com)  
+- 🌐 **Portfolio:** [[your-portfolio.com](https://your-portfolio.com)](https://portfolio-ruby-beta-17.vercel.app/)  
+- 💼 **LinkedIn:**[ [linkedin.com/in/yourprofile](https://www.linkedin.com/in/archit-jain-380ba4289/)](https://linkedin.com/in/yourprofile)
 
 ---
 
